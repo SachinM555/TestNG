@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="13151" started-at="2017-07-15T14:49:15Z" finished-at="2017-07-15T14:49:28Z">
+  <suite name="Default suite" duration-ms="16813" started-at="2017-07-16T07:08:16Z" finished-at="2017-07-16T07:08:33Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="13151" started-at="2017-07-15T14:49:15Z" finished-at="2017-07-15T14:49:28Z">
+    <test name="Default test" duration-ms="16813" started-at="2017-07-16T07:08:16Z" finished-at="2017-07-16T07:08:33Z">
       <class name="spkm.SPK">
-        <test-method status="PASS" signature="main()[pri:0, instance:spkm.SPK@2bcfcb]" name="main" duration-ms="13122" started-at="2017-07-15T20:19:15Z" finished-at="2017-07-15T20:19:28Z">
+        <test-method status="PASS" signature="main()[pri:0, instance:spkm.SPK@d2e7d9]" name="main" duration-ms="16743" started-at="2017-07-16T12:38:16Z" finished-at="2017-07-16T12:38:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- main -->
       </class> <!-- spkm.SPK -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
