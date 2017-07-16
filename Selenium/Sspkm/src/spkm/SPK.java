@@ -18,7 +18,7 @@ public class SPK {
       driver.get("http://www.google.co.in");
       
       driver.manage().window().maximize();
-      driver.close();
+      driver.quit();
       
   }
 }
