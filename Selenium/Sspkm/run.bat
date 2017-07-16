@@ -1,0 +1,1 @@
+java -cp D:\Selenium_Jenkins_Git\MySPK\Selenium\Sspkm\libs\*;D:\Selenium_Jenkins_Git\MySPK\Selenium\Sspkm\bin org.testng.TestNG testng.xml
